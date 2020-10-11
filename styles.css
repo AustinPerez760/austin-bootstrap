@@ -2,11 +2,26 @@ body {
     background-image: url("https://www.freevector.com/uploads/vector/preview/30347/Creative_Geometric_Background.jpg");
     background-color: #cccccc;
      }
-.navbox{background:rgb(19, 250, 11);
-    margin-left:800px}
+.navbox{ 
+    background:white;
+    margin-left:800px;
+    width:auto;}
+
+    #about {
+        font-family: 'Zilla Slab', serif;
+        color:black}
+
+    #portfolio {
+        font-family: 'Zilla Slab', serif;
+        color:black; }    
+
+    #contact { 
+        font-family: 'Zilla Slab', serif;
+        color:black }
 
 
-   .name{font-family: 'Zilla Slab', serif;
+   .name{
+       font-family: 'Zilla Slab', serif;
        background:teal;
        color:white;
        font-size:30px;
@@ -14,28 +29,11 @@ body {
         }
 
 
-.container {background:white; height: 90px; width: auto; } 
-
-
-
-.austin {background:teal;
-    color:white;
-    font-family:'Zilla Slab', serif;
-    font-size: 17px; 
-    margin-top: 10px;
-    padding:20px 40px;
-    width: 175px; }
-
-
-section {background-color:rgb(250, 252, 248); width:auto;}
-
-
-.container2 {background:white;
+.container2 {
+    background:white;
     height: 480px; 
     width:auto; 
-    margin-left: 50px;
-    
-    }
+    margin-left: 50px;}
 
 .aboutme2 {font-family: 'Zilla Slab', serif;
     
@@ -47,37 +45,48 @@ section {background-color:rgb(250, 252, 248); width:auto;}
 #LJpic {height:250px;
     width: 250px; 
     margin-top: 10px; 
-    padding: 10px 10px; 
-    
-}
+    padding: 10px 10px;}
+
 
 .paragraph1 {font-family:'Zilla Slab', serif;
         padding: 10px;
-        font-size: 20px;
-    
-    }
-    .card-footer {background:seashell;
-        height:auto; 
-        opacity:0.9;
-        margin-top: 10px;}
+        font-size: 20px;}
 
 
-    .seccontacts {font-family:'Zilla Slab', serif;
-        height:500px}
+    .card-footer {background:white;
+        height:150%; 
+        margin-top: 20px;
+        margin-bottom:5px}
+
+
+    .seccontacts {background:white;
+        height: 480px; 
+        width:auto; 
+        margin-left: 50px;}
         
      
-     .Description {font-size:35px;
+     .contact-description {font-size:35px;
         color:teal;
         padding: 40px 40px;
         border-bottom: 1px solid black}
 
-        
+    form {
+        margin-top:10px;
+        margin-left:40px}
+
+.portfolio-description {font-size:35px;
+    color:teal;
+    padding: 40px 40px;
+    border-bottom: 1px solid black}
 
 
+.secportfolio {background:white;
+    height: 480px; 
+    width:auto; 
+    margin-left: 50px;}
 
 
-
-
+    
     
 
      
