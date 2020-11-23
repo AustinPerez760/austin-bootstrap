@@ -1,92 +1,141 @@
 body {
-    background-image: url("https://www.freevector.com/uploads/vector/preview/30347/Creative_Geometric_Background.jpg");
+    background-image: url("https://images.unsplash.com/photo-1531265726475-52ad60219627?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1668&q=80");
     background-color: #cccccc;
      }
-.navbox{ 
-    background:white;
-    margin-left:800px;
-    width:auto;}
 
-    #about {
-        font-family: 'Zilla Slab', serif;
-        color:black}
+nav{
+   font-size: 35px;
+   
+}
 
-    #portfolio {
-        font-family: 'Zilla Slab', serif;
-        color:black; }    
-
-    #contact { 
-        font-family: 'Zilla Slab', serif;
-        color:black }
-
-
-   .name{
-       font-family: 'Zilla Slab', serif;
-       background:teal;
-       color:white;
-       font-size:30px;
-       padding:10px 1px;
-        }
-
-
-.container2 {
-    background:white;
-    height: 480px; 
-    width:auto; 
-    margin-left: 50px;}
-
-.aboutme2 {font-family: 'Zilla Slab', serif;
+.contact-font{
+    font-size: 15px;
+    color:lightgrey;
     
-    font-size: 35px;
-    color:teal;
-    padding: 25px 35px;
-    border-bottom: 1px solid black  }   
+}
+
+.port-font{
+    font-size: 15px;
+    color:lightgrey;
+   
+}
+
+.about-font{
+    font-size: 15px;
+    color:white;
+}
+
+.name-big{
+    background-color:lightsteelblue;
+    font-family:'Lato', sans-serif; 
+    color:slategrey;
+    padding-right:10px;
+    padding-left:10px;
+ 
+}
+
+.head-font{
+    background-color:black;
+    text-align: center;
+
+}
+
+.about-me{
+    color:lightsteelblue;
+    font-size: 30px;
+    font-family:'Lato', sans-serif; 
+    border-bottom: 1px solid white;
+}
+
+.about-me-text{
+font-family: 'Lato', sans-serif; 
+color:lightgrey;
+
+}
+
+.container-md {
+margin-top:50px;
+margin-bottom: 80px;
+margin-right: 10%; 
+width:auto;
+margin-left: 50px;
+font-family:lato; 
+font-size: 20px
+} 
 
 #LJpic {height:250px;
     width: 250px; 
     margin-top: 10px; 
-    padding: 10px 10px;}
+    padding: 10px 10px;
+}
 
+footer{
+    position: fixed;
+    left: 0px;
+    bottom: 0px; 
+    height: 50px;
+    width: 100%; 
+    background:slategrey;
+    border-top: 5px solid white;
+    opacity: .9;
+}
 
-.paragraph1 {font-family:'Zilla Slab', serif;
-        padding: 10px;
-        font-size: 20px;}
-
-
-    .card-footer {background:white;
-        height:150%; 
-        margin-top: 20px;
-        margin-bottom:5px}
-
-
-    .seccontacts {background:white;
-        height: 480px; 
-        width:auto; 
-        margin-left: 50px;}
-        
-     
-     .contact-description {font-size:35px;
-        color:teal;
-        padding: 40px 40px;
-        border-bottom: 1px solid black}
-
-    form {
-        margin-top:10px;
-        margin-left:40px}
-
-.portfolio-description {font-size:35px;
-    color:teal;
-    padding: 40px 40px;
-    border-bottom: 1px solid black}
-
-
-.secportfolio {background:white;
-    height: 480px; 
-    width:auto; 
-    margin-left: 50px;}
-
-
+.contact-me{
+    color:lightsteelblue;
+    font-size: 30px; 
+    font-family: "Lato", sans-serif; 
+    border-bottom: 1px solid white; 
     
-    
+}
 
-     
+.contact-name{
+    color: lightgrey;
+    font-size: 20px; 
+    padding-top: 10px;
+    padding-bottom: 5px; 
+    font-family: "Lato", sans-serif; 
+}
+
+.email-text{
+    color: lightgrey;
+    font-size: 20px; 
+    padding-top: 10px;
+    font-family: "Lato", sans-serif; 
+}
+
+.message-text{
+    color: lightgrey;
+    font-size: 20px; 
+    padding-top: 10px;
+    font-family: "Lato", sans-serif; 
+}
+
+.btn{
+    margin-bottom: 20px;
+    color: white;
+    font-family: "Lato", sans-serif; 
+}
+
+.portfolio-me{
+    color:lightsteelblue;
+    font-size: 30px; 
+    font-family: "Lato", sans-serif; 
+    border-bottom: 1px solid white; 
+    
+}
+
+#space-tree{
+    padding-top: 5px;
+    padding-bottom:5px; 
+    
+}
+
+#shooting-sky{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#ice-road{
+    padding-top: 5px;
+    padding-top: 5px; 
+}
