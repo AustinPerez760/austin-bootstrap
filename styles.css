@@ -124,8 +124,20 @@ footer {
   border-bottom: 1px solid white;
 }
 
+.card-group {
+  padding: 10px;
+}
+
+.card-body {
+  background-color: lightsteelblue;
+}
+
 .austin-img {
   padding: 10px;
+}
+
+.brew-pic {
+  height: 190px;
 }
 
 #skills {
